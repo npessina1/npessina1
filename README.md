@@ -2,6 +2,7 @@
 - 💻 I’m interested in creating video games.
 - 📔 Pronouns: He/Il
 - ⚡ Fun fact: I'm me
+- C, C++, HTML, CSS, PHP, SQL
 
 <!---
 npessina1/npessina1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
